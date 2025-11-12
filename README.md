@@ -15,7 +15,7 @@
 
 📸 *Preview of Project Structure*
 
-<img src="https://github.com/username/repo-name/blob/main/assets/project_preview.png" width="600" alt="Project Screenshot"/>
+<img src="https://github.com/Mankodi2003/OrangeHRM_Automation_Basic_Simple/blob/main/blob/main/assets/project_preview.jpg" width="600" alt="Project Screenshot"/>
 
 ---
 
