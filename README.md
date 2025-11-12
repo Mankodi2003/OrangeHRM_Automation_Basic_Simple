@@ -49,7 +49,6 @@
 
 ## 🚀 How to Run Locally
 
-```bash
 # 1️⃣ Clone the repository
 git clone https://github.com/Mankodi20003/OrangeHRM_Automation_Basic_Simple.git
 
@@ -88,9 +87,8 @@ Prasiddh Mankodi
 
 <div align="center">
 
-⭐ If you like this framework, don't forget to star this repo!  
+⭐ If you like this framework, don’t forget to star this repo!
 
-Made with ❤️ and ☕ in Eclipse IDE.  
+Made with ❤️ and ☕ in Eclipse IDE
 
-</div>
-
+</div> ```
