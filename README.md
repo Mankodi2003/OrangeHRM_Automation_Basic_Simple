@@ -47,22 +47,6 @@
 
 ---
 
-OrangeHRM_Automation_Simple_General/
-│
-├── src/
-│ ├── main/java/
-│ │ ├── base/
-│ │ ├── pages/
-│ │ 
-│ └── test/java/
-│ ├── tests/
-├── testng.xml
-├── pom.xml
-├── .classpath
-## 🧾 Project Structure
-
----
-
 ## 🚀 How to Run Locally
 
 ```bash
