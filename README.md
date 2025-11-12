@@ -87,8 +87,10 @@ Prasiddh Mankodi
 ---
 
 <div align="center">
-⭐ If you like this framework, don't forget to star this repo!
 
-Made with ❤️ and ☕ in Eclipse IDE.
+⭐ If you like this framework, don't forget to star this repo!  
 
-</div> ```
+Made with ❤️ and ☕ in Eclipse IDE.  
+
+</div>
+
